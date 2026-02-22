@@ -1,0 +1,12 @@
+.TicketNum {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(28, 126, 118);
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 5px;
+  text-align: center;
+  
+}
